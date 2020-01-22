@@ -58,7 +58,7 @@
         <OutArgument x:TypeArguments="x:Int32">[counter]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:Int32">1</InArgument>
+        <InArgument x:TypeArguments="x:Int32">0</InArgument>
       </Assign.Value>
     </Assign>
     <While sap:VirtualizedContainerService.HintSize="801,589" sap2010:WorkflowViewState.IdRef="While_1" Condition="[counter&lt;= 100]">
