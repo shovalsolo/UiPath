@@ -1,6 +1,6 @@
 {
-  "name": "hello",
-  "description": "Blank Process",
+  "name": "basicFlows",
+  "description": "Basic tests and actions",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.0-preview]",
